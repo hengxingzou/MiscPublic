@@ -1,4 +1,5 @@
-# Vote tally for student invited seminar speaker
+# Vote tally for student invited seminar speaker, Rice University EEB
+# Originally created by Joshua Fowler
 # Updated: Aug 1, 2022
 
 library(tidyverse)
